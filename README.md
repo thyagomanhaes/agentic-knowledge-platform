@@ -5,19 +5,19 @@ Build a production-grade data platform that ingests structured and unstructured 
 
 ## Technologies
 
-Python
-FastAPI
-Pydantic
-SQLAlchemy
-Apache Beam
-Dataflow
-Airflow
-BigQuery
-GCS
-Vertex AI
-ChromaDB
-Neo4j
-dbt
-Docker
-Terraform
-GitHub Actions
+- Python
+- FastAPI
+- Pydantic
+- SQLAlchemy
+- Apache Beam
+- Dataflow
+- Airflow
+- BigQuery
+- GCS
+- Vertex AI
+- ChromaDB
+- Neo4j
+- dbt
+- Docker
+- Terraform
+- GitHub Actions
